@@ -1,12 +1,3 @@
-# LogoDet
-Neural Nets for logo detection
-
-# Using the free API
-- Signup [here](https://tech.notai.tech/signup/) for free API key.
-- Maximum 16 requests per hour allowed.
-- Each request can have maximum of 4 images to be processed. (i.e: maximum of 64 images can be processed per hour.)
-
-**Example usage of the free API**
 
 ```bash
 wget https://github.com/notAI-tech/fastDeploy/blob/master/cli/fastDeploy-file_client.py
